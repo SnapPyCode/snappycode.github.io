@@ -1,6 +1,6 @@
 ## Welcome to Snappy Code
 
-![Image of Text Logo](https://github.com/SnapPyCode/snappycode.github.io/edit/master/logo-text.png)
+![Image of Text Logo](https://snappycode.github.io/edit/master/logo-text.png)
 
 You can use the [editor on GitHub](https://github.com/SnapPyCode/snappycode.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
