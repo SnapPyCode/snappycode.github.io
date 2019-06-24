@@ -1,6 +1,5 @@
 ## Welcome to Snappy Code
 
-![Image of Text Logo](https://snappycode.github.io/logo-text.png)
 ![Image of Circle Logo](https://snappycode.github.io/logo-circle.png)
 
 ### Jekyll Themes
